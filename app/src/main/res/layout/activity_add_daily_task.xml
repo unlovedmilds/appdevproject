@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mondelavictoria.todaysched.Add__Daily_Task">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="15dp"
+        android:background="#eeeeee"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/textViewTask"
+            android:layout_width="50dp"
+            android:layout_height="43dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/dailytask"
+             />
+
+        <AutoCompleteTextView
+            android:id="@+id/dailyTask"
+            android:layout_width="640dp"
+            android:layout_height="43dp"
+            android:layout_alignTop="@+id/textViewTask"
+            android:layout_toEndOf="@+id/textViewTask"
+            android:hint="Enter Daily Task"
+            android:background="#ffffff"
+            android:textAlignment="center" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_alignStart="@+id/relativeLayout"
+        android:layout_below="@+id/relativeLayout"
+        android:background="#eeeeee"
+        android:layout_marginTop="-10dp"
+        android:id="@+id/relativeLayout2">
+
+        <TextView
+            android:id="@+id/textViewLocation"
+            android:layout_width="50dp"
+            android:layout_height="43dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/location"
+            />
+
+        <AutoCompleteTextView
+            android:id="@+id/dailyLocation"
+            android:layout_width="640dp"
+            android:layout_height="43dp"
+            android:layout_alignTop="@+id/textViewLocation"
+            android:layout_toEndOf="@+id/textViewLocation"
+            android:hint=" Task Location"
+            android:background="#ffffff"
+            android:textAlignment="center" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:background="#eeeeee"
+        android:layout_alignStart="@+id/relativeLayout2"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_marginTop="10dp"
+        android:id="@+id/relativeLayout5">
+
+        <TextView
+            android:id="@+id/textViewStartTime"
+            android:layout_width="50dp"
+            android:layout_height="43dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/starttime"
+            />
+
+        <EditText
+            android:id="@+id/startTime"
+            android:layout_width="640dp"
+            android:layout_height="43dp"
+            android:layout_alignTop="@+id/textViewStartTime"
+            android:layout_toEndOf="@+id/textViewStartTime"
+            android:hint="Start Time"
+            android:background="#ffffff"
+            android:textAlignment="center" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:background="#eeeeee"
+        android:layout_alignStart="@+id/relativeLayout5"
+        android:layout_below="@+id/relativeLayout5"
+        android:layout_marginTop="8dp"
+        android:id="@+id/relativeLayout6">
+
+        <TextView
+            android:id="@+id/textViewendTime"
+            android:layout_width="50dp"
+            android:layout_height="43dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/endtime"
+            />
+
+        <TextView
+            android:id="@+id/endTime"
+            android:layout_width="640dp"
+            android:layout_height="43dp"
+            android:layout_alignTop="@+id/textViewendTime"
+            android:layout_toEndOf="@+id/textViewendTime"
+            android:hint="End Time"
+            android:background="#ffffff"
+            android:textAlignment="center" />
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:background="#eeeeee"
+        android:layout_alignStart="@+id/relativeLayout6"
+        android:layout_below="@+id/relativeLayout6"
+        android:layout_marginTop="14dp"
+        android:id="@+id/relativeLayout8">
+
+        <TextView
+            android:id="@+id/textViewendDate"
+            android:layout_width="50dp"
+            android:layout_height="43dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/date"
+            />
+
+        <Spinner
+            android:id="@+id/spinnerDate"
+            android:backgroundTint="#00b0ff"
+            android:textAlignment="center"
+            android:layout_width="640dp"
+            android:layout_height="43dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@+id/textViewendDate" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:background="#eeeeee"
+        android:layout_alignStart="@+id/relativeLayout8"
+        android:layout_below="@+id/relativeLayout8"
+        android:layout_marginTop="14dp"
+        android:id="@+id/relativeLayout7">
+
+        <TextView
+            android:id="@+id/textViewAlarm"
+            android:layout_width="50dp"
+            android:layout_height="43dp"
+
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/alarm"
+            />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:textAlignment="center"
+            android:backgroundTint="#00b0ff"
+            android:layout_width="640dp"
+            android:layout_height="43dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@+id/textViewAlarm" />
+
+
+    </RelativeLayout>
+
+   <!-- <TextView
+        android:id="@+id/textView13"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/tasklogo"
+        android:layout_below="@+id/relativeLayout7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        />-->
+
+    <LinearLayout
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout7"
+        android:background="#5555"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/button8"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="10dp"
+            android:drawableTop="@drawable/handcursorcancel"
+            android:text="Cancel"
+            android:background="#eeeeee"
+            android:textColor="#ff5252"
+            android:textSize="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/button_Add_DailyTask"
+            android:background="#fff"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:drawableTop="@drawable/handcursorcancel"
+            android:layout_weight="1"
+            android:textColor="#00e676"
+            android:textSize="15dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textAlignment="center"
+            android:text="Save" />
+    </LinearLayout>
+
+
+</RelativeLayout>

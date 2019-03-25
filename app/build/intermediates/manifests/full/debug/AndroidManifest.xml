@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mondelavictoria.scheduller_app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="com.android.Alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/dailytask"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.mondelavictoria.todaysched.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.mondelavictoria.todaysched.AddNoteActivity"
+            android:label="Add Task" />
+        <activity
+            android:name="com.example.mondelavictoria.todaysched.NotePreviewActivity"
+            android:label="Task List" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Monday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Tuesday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Wednesday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Thursday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Friday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Saturday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Sunday_TabFragment" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Add__Daily_Task" />
+        <activity android:name="com.example.mondelavictoria.todaysched.AlertDialogClass" />
+        <activity
+            android:name="com.example.mondelavictoria.todaysched.Add_Class_Sched"
+            android:label="Add Class Schedule" />
+        <activity
+            android:name="com.example.mondelavictoria.todaysched.Add_Event_Task"
+            android:label="Task List" />
+        <activity android:name="com.example.mondelavictoria.todaysched.View_Calendar_Events" />
+        <activity
+            android:name="com.example.mondelavictoria.todaysched.Add_WorkLoad"
+            android:label="Add Work Load" />
+        <activity android:name="com.example.mondelavictoria.todaysched.Task_Event" />
+
+        <receiver android:name="com.example.mondelavictoria.todaysched.AlarmReceiver" />
+
+        <activity android:name="com.example.mondelavictoria.todaysched.History" />
+    </application>
+
+</manifest>

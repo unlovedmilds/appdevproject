@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mondelavictoria.todaysched">
+
+    <uses-permission android:name="com.android.Alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/dailytask"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AddNoteActivity"
+            android:label="Add Task" />
+        <activity
+            android:name=".NotePreviewActivity"
+            android:label="Task List" />
+        <activity android:name=".Monday_TabFragment" />
+        <activity android:name=".Tuesday_TabFragment" />
+        <activity android:name=".Wednesday_TabFragment" />
+        <activity android:name=".Thursday_TabFragment" />
+        <activity android:name=".Friday_TabFragment" />
+        <activity android:name=".Saturday_TabFragment" />
+        <activity android:name=".Sunday_TabFragment" />
+        <activity android:name=".Add__Daily_Task" />
+        <activity android:name=".AlertDialogClass" />
+        <activity
+            android:name=".Add_Class_Sched"
+            android:label="Add Class Schedule" />
+        <activity
+            android:name=".Add_Event_Task"
+            android:label="Task List" />
+        <activity android:name=".View_Calendar_Events" />
+        <activity
+            android:name=".Add_WorkLoad"
+            android:label="Add Work Load" />
+        <activity android:name=".Task_Event" />
+
+        <receiver
+            android:name="com.example.mondelavictoria.todaysched.AlarmReceiver"
+            />
+
+        <activity android:name=".History"></activity>
+    </application>
+
+</manifest>

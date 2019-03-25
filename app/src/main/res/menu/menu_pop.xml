@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sem1"
+        android:title="1st Semester"
+        />
+    <item
+        android:id="@+id/sem2"
+        android:title="2nd Semester"
+        />
+    <item
+        android:id="@+id/sem3"
+        android:title="Summer Semester"
+        />
+
+
+
+
+</menu>

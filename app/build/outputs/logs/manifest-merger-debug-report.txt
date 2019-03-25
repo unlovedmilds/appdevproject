@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+uses-permission#com.android.Alarm.permission.SET_ALARM
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:9:5-60:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\1063be51a5b56d9b576769a023f649076d84d1cb\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\0658219f9b2a8e70a5901650e940b404f90a1c39\output\AndroidManifest.xml:22:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Rey Dela Victoria\.android\build-cache\0a20d4bad10c457c86730a5f3f790e2fa9f5b710\output\AndroidManifest.xml:9:5-20
+MERGED from [com.applandeo:material-calendar-view:1.0.1] C:\Users\Rey Dela Victoria\.android\build-cache\b5b2d2c3838c0f5a298ebba3a0d974b35505f94d\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rey Dela Victoria\.android\build-cache\04311cd75d2d0f8ea991ac8f513035e991f1e2ad\output\AndroidManifest.xml:9:5-20
+MERGED from [com.nex3z:notification-badge:0.1.0] C:\Users\Rey Dela Victoria\.android\build-cache\c802880a1331a8270ae84cde5bab6619db52bc38\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.mondelavictoria.todaysched.MainActivity
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:16:9-27:20
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MAIN+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:20:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:21:17-79
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:21:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:22:25-79
+action#android.intent.action.MAIN
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.mondelavictoria.todaysched.AddNoteActivity
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:29:13-44
+activity#com.example.mondelavictoria.todaysched.NotePreviewActivity
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:31:9-33:41
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:33:13-38
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:32:13-48
+activity#com.example.mondelavictoria.todaysched.Monday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:34:19-53
+activity#com.example.mondelavictoria.todaysched.Tuesday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:35:19-54
+activity#com.example.mondelavictoria.todaysched.Wednesday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:36:19-56
+activity#com.example.mondelavictoria.todaysched.Thursday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:37:9-58
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:37:19-55
+activity#com.example.mondelavictoria.todaysched.Friday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:38:9-56
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:38:19-53
+activity#com.example.mondelavictoria.todaysched.Saturday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:39:9-58
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:39:19-55
+activity#com.example.mondelavictoria.todaysched.Sunday_TabFragment
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:40:19-53
+activity#com.example.mondelavictoria.todaysched.Add__Daily_Task
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:41:19-50
+activity#com.example.mondelavictoria.todaysched.AlertDialogClass
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:42:9-54
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:42:19-51
+activity#com.example.mondelavictoria.todaysched.Add_Class_Sched
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:43:9-45:50
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:45:13-47
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:44:13-44
+activity#com.example.mondelavictoria.todaysched.Add_Event_Task
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:46:9-48:41
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:48:13-38
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:47:13-43
+activity#com.example.mondelavictoria.todaysched.View_Calendar_Events
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:49:9-58
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:49:19-55
+activity#com.example.mondelavictoria.todaysched.Add_WorkLoad
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:50:9-52:45
+	android:label
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:52:13-42
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:51:13-41
+activity#com.example.mondelavictoria.todaysched.Task_Event
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:53:9-48
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:53:19-45
+receiver#com.example.mondelavictoria.todaysched.AlarmReceiver
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:55:9-57:15
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:56:13-80
+activity#com.example.mondelavictoria.todaysched.History
+ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:59:9-54
+	android:name
+		ADDED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml:59:19-42
+uses-sdk
+INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\292b5437413b7fbbff04c986b8a47f848fa6863c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\1063be51a5b56d9b576769a023f649076d84d1cb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\0658219f9b2a8e70a5901650e940b404f90a1c39\output\AndroidManifest.xml:20:5-43
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\Rey Dela Victoria\.android\build-cache\0a20d4bad10c457c86730a5f3f790e2fa9f5b710\output\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] C:\Users\Rey Dela Victoria\.android\build-cache\8f119b92409d4c1bca790a65ed730ca3c1e2d499\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applandeo:material-calendar-view:1.0.1] C:\Users\Rey Dela Victoria\.android\build-cache\b5b2d2c3838c0f5a298ebba3a0d974b35505f94d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rey Dela Victoria\.android\build-cache\04311cd75d2d0f8ea991ac8f513035e991f1e2ad\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.nex3z:notification-badge:0.1.0] C:\Users\Rey Dela Victoria\.android\build-cache\c802880a1331a8270ae84cde5bab6619db52bc38\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Rey Dela Victoria\.android\build-cache\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Scheduller_App\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Rey Dela Victoria\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\AndroidManifest.xml:26:9-47

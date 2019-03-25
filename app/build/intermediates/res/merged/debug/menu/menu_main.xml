@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mondelavictoria.todaysched.MainActivity">
+
+    <item
+        android:id="@+id/action_transition"
+        android:orderInCategory="100"
+        android:theme="@style/ToolbarDialog"
+        android:title="Trasition Effect"
+        app:showAsAction="never" />
+
+    <item
+        android:theme="@style/ToolbarDialog"
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:title="Delete Schedule"
+        app:showAsAction="never" />
+
+    <item
+        android:theme="@style/ToolbarDialog"
+        android:id="@+id/action_history"
+        android:orderInCategory="100"
+        android:title="History"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_event"
+        android:orderInCategory="100"
+        android:title="Events"
+        android:icon="@drawable/today"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:theme="@style/ToolbarDialog"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+
+</menu>

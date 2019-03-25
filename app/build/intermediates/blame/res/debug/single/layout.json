@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_workload_listview.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\class_workload_listview.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_note_activity.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\add_note_activity.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_badge.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c802880a1331a8270ae84cde5bab6619db52bc38\\output\\res\\layout\\notification_badge.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_preview_activity.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\note_preview_activity.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_daily_task.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_add_daily_task.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task__event.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_task__event.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_monday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view__calendar__events.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_view__calendar__events.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete_schedule.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\delete_schedule.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thursday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_thursday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_class_sched.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\add_class_sched.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add__event__task.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_add__event__task.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view_day.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\b5b2d2c3838c0f5a298ebba3a0d974b35505f94d\\output\\res\\layout\\calendar_view_day.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_sched_listview.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\class_sched_listview.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_friday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tuesday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_tuesday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radiobutton_dialog.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\radiobutton_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_saturday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_saturday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view_picker_day.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\b5b2d2c3838c0f5a298ebba3a0d974b35505f94d\\output\\res\\layout\\calendar_view_picker_day.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wednesday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_wednesday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_update_sched.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\add_update_sched.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view_grid.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\b5b2d2c3838c0f5a298ebba3a0d974b35505f94d\\output\\res\\layout\\calendar_view_grid.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_update_workload.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\add_update_workload.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\events_delete.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\events_delete.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sunday__tab_fragment.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_sunday__tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_griview_layout.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\history_griview_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add__work_load.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\activity_add__work_load.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_listview_task.xml",
+        "source": "C:\\Android\\Scheduller_App\\app\\src\\main\\res\\layout\\custom_listview_task.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\c61c3d9a6180f1f8b9eb1a03c6b43837d1971087\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\b5b2d2c3838c0f5a298ebba3a0d974b35505f94d\\output\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\Scheduller_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Rey Dela Victoria\\.android\\build-cache\\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    }
+]
